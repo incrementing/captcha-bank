@@ -7,7 +7,7 @@ Not a big fan of the word harvester, mainly because I'm hardly awake and it's ha
 so my version will be called "Captcha Bank". If this works then I'll be making it open source.
 
 # Usage
-Just clone the project (or download the zip) and run main.go as an Administrator, or run it as a normal user and get this error `panic: open C:\WINDOWS\System32\drivers\etc\hosts: Access is denied.`.
+Just clone the project (or download the zip) and run main.go as an Administrator.
 <br>
 Tested on Windows 10, should work on Darwin and Linux but again sudo will most likely be required.
 
